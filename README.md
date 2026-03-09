@@ -14,6 +14,7 @@ Repositório de automação de testes end-to-end utilizando Cypress, desenvolvid
 - Node.js — ambiente de execução
 
 ## Estrutura do Repositório
+```
 Automa-o-QA/
 ├── cypress/
 │   └── e2e/
@@ -25,7 +26,7 @@ Automa-o-QA/
 ├── cypress.config.js
 ├── package.json
 └── README.md
-
+```
 ## Casos de Teste
 
 ### Site de Certificação
